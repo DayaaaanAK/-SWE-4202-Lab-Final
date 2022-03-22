@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\SWE 4202 Lab Final\bin\Debug\SWE 4202 Lab Final.exe.config
+C:\Users\Asus\source\repos\SWE 4202 Lab Final\bin\Debug\SWE 4202 Lab Final.exe
+C:\Users\Asus\source\repos\SWE 4202 Lab Final\bin\Debug\SWE 4202 Lab Final.pdb
+C:\Users\Asus\source\repos\SWE 4202 Lab Final\obj\Debug\SWE 4202 Lab Final.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\SWE 4202 Lab Final\obj\Debug\SWE 4202 Lab Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\SWE 4202 Lab Final\obj\Debug\SWE_4202_Lab_Final.Form1.resources
+C:\Users\Asus\source\repos\SWE 4202 Lab Final\obj\Debug\SWE_4202_Lab_Final.Properties.Resources.resources
+C:\Users\Asus\source\repos\SWE 4202 Lab Final\obj\Debug\SWE 4202 Lab Final.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\SWE 4202 Lab Final\obj\Debug\SWE 4202 Lab Final.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SWE 4202 Lab Final\obj\Debug\SWE 4202 Lab Final.exe
+C:\Users\Asus\source\repos\SWE 4202 Lab Final\obj\Debug\SWE 4202 Lab Final.pdb
